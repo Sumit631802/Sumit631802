@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit631802&label=Profile%20views&color=0e75b6&style=flat" alt="sumit631802" /> </p>
 
-- 👨‍💻 All of my Certificates are available at [www.linkedin.com/in/sumit-kumar-768b5a329](www.linkedin.com/in/sumit-kumar-768b5a329)
+- 👨‍💻 All of my Certificates are available at
+- [www.linkedin.com/in/sumit-kumar-768b5a329](www.linkedin.com/in/sumit-kumar-768b5a329)
 
 - ⚡ Fun fact **I AM VERY FUNNY 😅**
 
